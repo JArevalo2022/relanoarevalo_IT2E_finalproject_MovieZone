@@ -16,13 +16,14 @@
       <nav>
         <div>
           <b>
-          <span style="color: white; font-size: 60px;">What</span>
-          <span style="color: hotpink; font-size: 60px;">The?</span>
+          <span style="color: white; font-size: 60px;">Movie</span>
+          <span style="color: hotpink; font-size: 60px;">Zone</span>
         </b>
         </div>
 
         <div>
           <input type="text" placeholder="Searching..." style="color: white; width: 60%; height: 50px; padding: 0px;  font-size: 20px; background-color: transparent;">
+
         </div>
 
         <div>
@@ -85,7 +86,6 @@ li a {
   text-align: center;
   padding: 21px;
   text-decoration: none;
-  font-family: ;
 }
 
 li a:hover {
@@ -103,6 +103,20 @@ li a:hover {
   <img src="reco/rec5.jpg" style="width: 12%; height: 300px;">
   <img src="comedy/cm5.jpg" style="width: 12%; height: 300px;">
   <img src="horror/hor3.jpg" style="width: 12%; height: 300px;">
+</div>
+
+<div class="py-4 px-4">
+<div class="topnav">
+  <h3>
+    <a href="index.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+    <a href="page1.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+    <a href="page2.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+    <a href="page3.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+    <a href="page4.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+    <a href="page5.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+    <a href="page6.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+    <a href="page7.php" style=" color : hotpink; margin: 0; padding: 70px;">watch.now</a>
+</h3>
 </div>
 </div>
 
