@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<moviezone>
+	<movie>
+
+		<image>Movie Background</image>
+
+		<navigation no="1">Home</navigation>
+		<navigation no="2">Recommended</navigation>
+		<navigation no="3">Action</navigation>
+		<navigation no="4">Horror</navigation>
+		<navigation no="5">Romance</navigation>
+		<navigation no="6">Fantasy</navigation>
+		<navigation no="7">Comdey</navigation>
+		<navigation no="8">K-Drama</navigation>
+		<navigation no="9">Adventure</navigation>
+		<navigation no="10">Animation</navigation>
+		<navigation no="11">Tagalog</navigation>
+		<navigation no="12">Family</navigation>
+		<navigation no="13">Superhero</navigation>
+
+	</movie>
+
+		<home> Watch Now </home>
+
+	<recommended>
+		<navigation no="1">Home</navigation>
+		<navigation no="2">Recommended</navigation>
+		<navigation no="3">Action</navigation>
+		<navigation no="4">Horror</navigation>
+		<navigation no="5">Romance</navigation>
+		<navigation no="6">Fantasy</navigation>
+		<navigation no="7">Comdey</navigation>
+		<navigation no="8">K-Drama</navigation>
+		<navigation no="9">Adventure</navigation>
+		<navigation no="10">Animation</navigation>
+		<navigation no="11">Tagalog</navigation>
+		<navigation no="12">Family</navigation>
+		<navigation no="13">Superhero</navigation>
+
+		
+
+		<movie>
+			<recommended>
+			<title>Sucker Punch </title>
+
+					<content>
+						Your opinion on Sucker Punch will likely hinge on your opinion of Zack Snyder’s particular style.This steampunk fantasy delves into the imagination of Babydoll (Emily Browning), a young woman locked in an asylum who wages a war for freedom inside her mind alongside four other women. Together, and with an absolute arsenal at their disposal, they take on everything from samurais to serpents and gamble it all on survival.
+					</content>
+			<title> Big Fish </title>
+
+		      <content>Tim Burton’s folksy fantasy is one that many of us can identify with. It’s the manifestation of an old man’s hyperbolic stories of his life. Edward Bloom (Albert Finney) has always told seemingly tall tales about his life as fact, a trait that has made his relationship with his son, William (Billy Crudup), difficult. But when Edward continues to tell these fantasy stories on his deathbed, William decides to finally investigate his father’s tales. As he does, he begins to finally understand his father after a lifetime of confusion.</content>
+
+      <title> Green Mile </title>
+          <content>	The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift. Death Row guards at a penitentiary, in the 1930's, have a moral dilemma with their job when they discover one of their prisoners, a convicted murderer, has a special gift.</content>
+
+			<title> How to Train Your Dragon </title>
+			    <content>Long ago up North on the Island of Berk, the young Viking, Hiccup, wants to join his town's fight against the dragons that continually raid their town. However, his macho father and village leader, Stoik the Vast, will not allow his small, clumsy, but inventive son to do so. Regardless, Hiccup ventures out into battle and downs a mysterious Night Fury dragon with his invention, but can't bring himself to kill it. Instead, Hiccup and the dragon, whom he dubs Toothless, begin a friendship that would open up both their worlds as the observant boy learns that his people have misjudged the species. But even as the two each take flight in their own way, they find that they must fight the destructive ignorance plaguing their world.</content>
+
+		<title> Her </title>
+		     <content>Theodore is a lonely man in the final stages of his divorce. When he's not working as a letter writer, his down time is spent playing video games and occasionally hanging out with friends. He decides to purchase the new OS1, which is advertised as the world's first artificially intelligent operating system, "It's not just an operating system, it's a consciousness," the ad states. Theodore quickly finds himself drawn in with Samantha, the voice behind his OS1. As they start spending time together they grow closer and closer and eventually find themselves in love.</content>
+ </recommended>
+
+			<action>
+				<title> Saving Private Ryan </title>
+				   <content> After the invasion of fortress Europe on June 6th 1944, Cpt. Miller leads his squad from the 2nd Ranger Battalion of the 29th Infantry Division, on a mission to find and bring home Private James Francis Ryan after the death of his brothers. The mission takes them through Nazi occupied territory to establish contact with Ryan's unit, an element of the 101st Airborne Division. This exciting war thriller brings the reality of history's bloodiest war into the homes of ordinary people, but also brings to light the reality of broken and lost families in a time of total and encompassing war.</content>
+
+				<title> Casino Royale </title>
+				   <content> Recently promoted to 00 status, James Bond (Daniel Craig) takes on his first mission, in which he faces a mysterious private banker to world terrorism and poker player, Le Chiffre (Mads Mikkelsen). Along with beautiful Treasury Agent Vesper Lynd (Eva Green) and the MI6 man in Montenegro, Bond takes part in a high stakes poker game set up by Le Chiffre in order to recover a huge sum of his clients' money he lost in a failed plot that the British spy took down. 007 will not only discover the threatening organization behind his enemy, but the worst of all truths: to not trust anyone.</content>
+
+				<title> Eagle Eye </title>
+				   <content>	Jerry and Rachel are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations, using the technology of everyday life to track and control their every move.</content>
+				
+				<title> John Rambo </title>
+				  <content> 	Jerry and Rachel are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations, using the technology of everyday life to track and control their every move.</content>
+
+      <title> Desperado </title>
+         <content> Former musician and gunslinger El Mariachi arrives at a small Mexican border town after being away for a long time. His past quickly catches up with him and he soon gets entangled with the local drug kingpin Bucho and his gang.</content>
+			
+	</action>
+
+  <horror>
+  	<title> The Conjuring </title>
+  	 <content> 	In 1971, Carolyn and Roger Perron move their family into a dilapidated Rhode Island farm house and soon strange things start happening around it with escalating nightmarish terror. In desperation, Carolyn contacts the noted paranormal investigators, Ed and Lorraine Warren, to examine the house. What the Warrens discover is a whole area steeped in a satanic haunting that is now targeting the Perron family wherever they go. To stop this evil, the Warrens will have to call upon all their skills and spiritual strength to defeat this spectral menace at its source that threatens to destroy everyone involved.</content>
+   
+   <title> Creep </title>
+     <content> 	A young videographer answers an online ad for a one-day job in a remote town to record the last messages of a dying man. When he notices the man's odd behavior, he starts to question his intentions.</content>
+
+  <title> The Haunting Of Hill House </title>
+     <content> Anthropologist and parapsychologist Doctor John Montague, hoping to legitimize the field of parapsychology through groundbreaking new research, invites a carefully-selected group of psychically sensitive individuals from around the country to spend part of the summer at Hill House—a manor in the northeastern United States with a reputation for being deeply haunted.</content>
+   
+   <title> His House </title>
+     <content> 	A refugee couple makes a harrowing escape from war-torn South Sudan, but then they struggle to adjust to their new life in an English town that has an evil lurking beneath the surface.</content>
+
+   <title> I'm Thinking Of Ending Things </title>
+     <content> Full of misgivings, a young woman travels with her new boyfriend to his parents' secluded farm. Upon arriving, she comes to question everything she thought she knew about him, and herself.</content>
+
+   </horror>
+
+
+   <romance>
+     	<title> Along For The Ride </title>
+        <content> 	When two objects hurtle toward each other at full speed, a collision becomes inevitable. And so it is with two grown brothers whose animosities have been churning within them since childhood. Their hostilities, their annoyances, petty grievances and frustration all have one source: their father. And it is their deceased father whom they now come to bury. Terry and Vance Cowens, two estranged brothers whose mother died when they were children, meet on a desolate highway in Mexico.</content>
+    
+
+     	
+     <title> When Harry Met Sally </title>
+        <content> 	Harry and Sally meet when she gives him a ride to New York after they both graduate from the University of Chicago. The film jumps through their lives as they both search for love, but fail, bumping into each other time and time again. Finally a close friendship blooms between them, and they both like having a friend of the opposite sex.</content>
+
+    <title> Midnight In Paris </title>
+       <content> King Henry VIII of England (Eric Bana) and his wife Katherine of Aragon (Ann Torrent) are having marital problems over the inability to produce a male heir. Henry summons the Boleyn family - parents Sir Thomas (Mark Rylance) and Lady Elizabeth (Dame Kristin Scott Thomas), and their three children George (Jim Sturgess), Anne (Natalie Portman), and Mary (Scarlett Johansson), who are all approaching adulthood - to his court.</content>
+     
+    <title> The Other Boleyn Girl </title>
+       <content> Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.</content>
+
+   </romance>
+
+
+   <fantasy>
+   	<title> King Arthur </title>
+   	   <content> The Roman Empire is stretched across many nations, including Britain. In their conquest for more land, the Romans went into Sarmatia where they fought the very brave Sarmatian cavalry. The Romans, impressed by the Sarmatian's weaponry and fighting skills, included them into their army as knights. After 15 years of serving and fighting for the Roman Empire the Sarmatian Knights, lead by Arthur/Artorious Castus, are about to receive their freedom as the Romans are leaving Britain.</content>
+   <title> How To Train Your Dragon 2 </title>
+      <content> When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.</content>
+
+   <title> Errementari </title>
+      <content> It’s a bit of treat when one stumbles upon something they were not expecting. I was watching something on Netflix when all of a sudden, I got some random selection that said if I liked this film then try this one, which ended up being Errementari: The Blacksmith and the Devil.</content>
+    
+   <title> The Fall </title>
+      <content>  	A seemingly cold but very passionate policewoman goes head to head with a seemingly passionate father who is in fact a cold serial killer in this procedural out of Belfast. The only thing they share is their common complexity.</content>
+
+
+   <title> Solomon Kane </title>
+     <content> A ruthless mercenary renounces violence after learning his soul is bound for hell. When a young girl is kidnapped and her family slain by a sorcerer's murderous cult, he is forced to fight and seek his redemption slaying evil.</content>
+
+   </fantasy>
+
+   <comedy>
+   	<title> Sorry To Bother You </title>
+   	  <content>	In an alternate version of Oakland, Cassius Green gets a telemarketing job and finds the commission paid job a dispiriting struggle as a black man selling to predominately white people over the phone. That changes when a veteran advises him to use his "white voice," and the attitude behind it to make himself more appealing to customers</content>
+
+   <title> Monty Python And The Holy Grail </title>
+      <content>		History is turned on its comic head when, in tenth-century England, King Arthur travels the countryside to find knights who will join him at the Round Table in Camelot. Gathering up the men is a tale in itself but after a bit of a party at Camelot, many decide to leave only to be stopped by God, who sends them on a quest: to find the Holy Grail.</content>
+
+   <title> The Last Action Hero </title>
+      <content>  		History is turned on its comic head when, in tenth-century England, King Arthur travels the countryside to find knights who will join him at the Round Table in Camelot. Gathering up the men is a tale in itself but after a bit of a party at Camelot, many decide to leave only to be stopped by God, who sends them on a quest: to find the Holy Grail.</content>
+
+   <title> Life of Brian </title>
+      <content> The story of Brian of Nazareth (Graham Chapman), born on the same day as Jesus of Nazareth, who takes a different path in life that leads to the same conclusion. Brian joins a political resistance movement aiming to get the Romans out of Judea. Brian scores a victory of sorts when he manages to paint political slogans on an entire wall in the city of Jerusalem. The movement is not very effective but somehow Brian becomes a prophet and gathers his own following.</content>
+
+   <title> The Other Guys </title>
+      <content>
+    	Two mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned. </content>
+
+   </comedy>
+
+   <k-drama>
+   	<title> Heirs </title>
+   	  <content>	After a chance encounter in LA, two teens from different social backgrounds reunite at an exclusive high school attended by Korea's über rich.</content>
+
+   <title> Mischiveous Kiss </title>
+
+     <content>	Fate brings polar opposite high school classmates (one obsessively attracted to the other, the other indifferent to all advances) to live under one roof. Is romance possible?</content>
+
+   <title> The Blood </title>
+     <content> A vampire and a surgeon struggle to treat terminally ill patients for the justice of life. </content>
+
+   <title> W </title>
+     <content> Oh Sung Moo, the father of cardiothoracic surgeon Oh Yeon Joo, mysteriously goes missing while writing the last chapter of his webtoon "W". Yeon Joo goes to his office looking, but a hand from his monitor suddenly pulls her in, and she finds herself on the rooftop of a building, next to a bloodied man. She manages to save the person, only to realize that he is Kang Cheol, the main character of her father's webtoon. Yeon Joo later discovers she can only enter and leave the webtoon depending on Kang Cheol's feelings.</content>
+
+
+   <title> Kill Me, Heal Me </title>
+     <content> A love story between the son from a wealthy family who has 7 personalities Cha Do Hyun (Ji Sung) and Oh Ri Jin (Hwang Jung Eum) who becomes his secret psychiatrist.</content>
+
+   </k-drama>
+
+   <adventure>
+   	<title> Journey 2 </title>
+   	   <content>Ever since his adventure in the center of the Earth, Sean Anderson has been looking for other places mentioned by Verne and other Vernians. He is notified about a coded message, and breaks into a satellite facility to fully receive it.</content>
+   	
+    <title> Raiders of The Lost Ark </title>
+       <content> The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to human existence.</content>
+
+   	<title> The Goonies </title>
+   	   <content> Ever since his adventure in the center of the Earth, Sean Anderson has been looking for other places mentioned by Verne and other Vernians. He is notified about a coded message, and breaks into a satellite facility to fully receive it.</content>
+
+   	<title> Willow </title>
+   	   <content> A baby girl is discovered in a river by Ranon and Mims, the children of Willow Ufgood, a dwarf farmer and magician and the baby girl is taken into the care of Willow's family. But when a terrifying dog-like creature attacks Willow's village, whilst tracking down the baby. Willow consults the village council and the wizard The High Aldwin</content>
+
+    <title> The Never Ending Story </title>
+       <content> 	Bastian is a young boy who lives a dreary life being tormented by school bullies. On one such occasion he escapes into a book shop where the old proprieter reveals an ancient story-book to him, which he is warned can be dangerous. Shortly after, he "borrows" the book and begins to read it in the school attic where he is drawn into the mythical land of Fantasia, which desperately needs a hero to save it from destruction.</content>
+   </adventure>
+
+   <animation>
+   	<title> Turning Red </title>
+       <content>	Mei has a vivid nightmare involving red pandas. When she wakes up that morning, she has transformed into a large red panda. She hides from her parents and discovers that she transforms only when she is in a state of high emotion, though her hair remains red. Ming initially believes Mei is experiencing her first period, but learns the truth when she further humiliates Mei at school, causing her to transform and run home. Ming and Mei's father Jin explain that Sun Yee was granted this transformation to protect her daughters, and every female family member since then has also transformed when they came of age. This has become inconvenient and dangerous in the modern age, so the red panda spirit must be sealed in a talisman by a ritual on the night of the Red Moon; the next being in a month's time. Mei's friends discover her transformation but take a liking to it, and Mei finds that concentrating on them helps control the red panda within her.</content>
+
+   <title> Arabian Knight </title>
+       <content> Three gold orbs must shine from a minaret to keep ancient Baghdad safe from an evil warrior and his hordes</content>
+
+   <title> Monster House </title>
+      <content>Monster House welccome kids and adults alike into a household full of smart, monstrous fun. </content>
+
+   <title> Anastasia </title>
+      <content>    		Beautiful animation, an affable take on Russian history, and strong voice performances make Anastasia a winning first film from Fox animation studios. </content>
+
+
+   <title> Paranorman </title>
+      <content> Beautifully animated and solidly scripted, ParaNorman will entertain (and frighten) older children while providing surprisingly thoughtful fare for their parents.</content>
+  </animation>
+
+   <tagalog>
+   	<title> Love You To The Stars And Back </title>
+   	   <content> A young woman forms a bond with a terminally-ill young man while on a road trip.</content>
+
+   <title> Vince And Kath And James </title>
+       <content> 	Senior engineering student Vince has a crush on go-getter and fellow engineering student Kath. Just when he's about to confess his feelings for her, his varsity-basketball-player cousin </content>
+
+   <title> Kita Kita </title>
+       <content> 	A blind woman falls in love with a man who uses kindness and humor to make a connection with her.</content>
+
+   <title> That Thing Called Tadhana </title>
+       <content> A story about a broken-hearted girl who meets a boy in a not so normal way. Together, they go to places and find out "where do broken hearts go?".</content>
+   
+   <title> One More Chance </title>
+       <content> 	Longtime couple Basha (Bea Alonzo) and Popoy (John Lloyd Cruz) are practically inseparable, so when they split up, it's not surprising how heartbroken each feels.</content>
+
+   </tagalog>
+
+   <family>
+   	<title> Chip 'N Dale </title>
+   	   <content> Thirty years after their popular television show ended, chipmunks Chip and Dale live very different lives. When a cast member from the original series mysteriously disappears, the pair must reunite to save their friend.</content>
+
+    <title> The Bad Guy </title>
+       <content> 	Several reformed yet misunderstood criminal animals attempt to become good, with some disastrous results along the way.</content>
+
+    <title> Sonic The Hedgehog </title>
+       <content> When the manic Dr Robotnik returns to Earth with a new ally, Knuckles the Echidna, Sonic and his new friend Tails is all that stands in their way.</content>
+
+    <title> Sing 2 </title>
+       <content> 	Buster Moon and his friends must persuade reclusive rock star Clay Calloway to join them for the opening of a new show. </content>
+
+    <title> Encanto </title>
+       <content>	A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers.</content>
+ </family>
+
+ <superhero>
+ 	<title> The Dark Knight </title>
+ 	    <content>When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.</content>
+ 
+  <title> Avengers: Endgame </title>
+      <content>After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe</content>
+
+  <title>Spider-Man: No Way Home</title>
+      <content> With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.</content>
+
+  <title> Logan </title> 
+      <content> 	In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.</content>
+
+  <title> Iron Man </title>
+      <content>	After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.</content>
+ </superhero>
+
+</moviezone>
